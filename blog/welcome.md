@@ -1,5 +1,5 @@
 <!--
-author: jockchou
+author: Mr.pig
 head: http://www.zhujianjie.cn/zjj.png
 date: 2016-01-01
 title: 自我简介
