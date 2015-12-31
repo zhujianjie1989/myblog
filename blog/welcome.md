@@ -9,7 +9,7 @@ status: publish
 summary: Hello World
 -->
 
-![gitblog-logo](./zjj.png)
+![gitblog-logo](http://www.zhujianjie.cn/zjj.png)
 
 ## 一. 自我简介 ##
 昵称：Mr.Pig
