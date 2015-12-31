@@ -14,10 +14,10 @@ summary: Hello World
 ## 一. 自我简介 ##
 昵称：Mr.Pig
 
-邮箱：Mr_Pig_4707@163.com
+邮箱:Mr_Pig_4707@163.com
 
-GitHub: https://github.com/zhujianjie1989
+GitHub:https://github.com/zhujianjie1989
 
-
+Linkin:https://sg.linkedin.com/in/kevin-zhu-9ba53184
 
 
